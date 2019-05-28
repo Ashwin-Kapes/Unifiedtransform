@@ -169,7 +169,7 @@ return [
          */
 //         Barryvdh\Debugbar\ServiceProvider::class,
         Mavinoo\LaravelBatch\LaravelBatchServiceProvider::class,
-        Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
+//         Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
         Lab404\Impersonate\ImpersonateServiceProvider::class,
         /*
          * Application Service Providers...
